@@ -1,7 +1,7 @@
 title: Heejin Eun
 description: Welcome to my website.
 baseurl: ""
-url: https://heeheejinag.github.io
+url: "https://heeheejinag.github.io/"
 
 theme: cvless
 
